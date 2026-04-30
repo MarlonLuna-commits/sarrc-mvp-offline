@@ -35,4 +35,6 @@ Ingeniería de Software 0 | Semana 12/13 — Configuración del entorno
 \- `/docs`: Documentación técnica.
 
 \- `/evidence`: Evidencias académicas.
+https://marlonluna-commits.github.io/sarrc-mvp-offline/
+https://github.com/MarlonLuna-commits/sarrc-mvp-offline.git
 
