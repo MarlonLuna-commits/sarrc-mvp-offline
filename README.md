@@ -1,40 +1,41 @@
-\# SARRC - Sistema de Recaudación de Cobros en Campo (MVP)
+# SARRC - MVP Grupo 01
 
+## Descripción
+Sistema de Administración y Recaudación Rural Comunitario (SARRC).
+Plataforma que digitaliza el proceso de cobro de tasas municipales en zonas rurales, permitiendo a los recaudadores trabajar en campo con dispositivos móviles y sincronizar transacciones de forma segura.
 
+## Integrantes
+- Marlon Nathan Luna Duran
+- Maria Jose Morales Barillas
+- Camila Esmeralda Molina Pineda
 
-\## Descripción
+## Asignatura
+Ingeniería de Software 0
 
-Sistema móvil de recaudación con arquitectura Offline-First para garantizar la integridad financiera en campo.
+## Semana
+Semana 12 — Configuración del entorno y primer despliegue
 
+## Stack tecnológico previsto
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: Node.js + Express.js
+- Base de datos: PostgreSQL (14 entidades en 3FN)
+- Despliegue: GitHub Pages
 
+## Estructura del repositorio
+- `/frontend` — Interfaz de usuario.
+- `/backend` — Servidor y API REST.
+- `/database` — Scripts SQL (14 entidades 3FN).
+- `/docs` — Documentación técnica.
+- `/evidence` — Evidencias académicas.
 
-\## Integrantes
+## Enlaces
+- Repositorio: https://github.com/MarlonLuna-commits/sarrc-mvp-offline
+- Despliegue: https://marlonluna-commits.github.io/sarrc-mvp-offline/
 
-\- Marlon Nathan Luna Duran
+## Estado actual
+Entorno inicial configurado y primer despliegue realizado en GitHub Pages.
 
-\- Maria Jose Morales Barillas
-
-\- Camila Esmeralda Molina Pineda
-
-
-
-\## Asignatura y Semana
-
-Ingeniería de Software 0 | Semana 12/13 — Configuración del entorno
-
-
-
-\## Estructura del Repositorio
-
-\- `/frontend`: Interfaz de usuario.
-
-\- `/backend`: Servidor, API REST.
-
-\- `/database`: Scripts SQL (14 entidades 3FN).
-
-\- `/docs`: Documentación técnica.
-
-\- `/evidence`: Evidencias académicas.
-https://marlonluna-commits.github.io/sarrc-mvp-offline/
-https://github.com/MarlonLuna-commits/sarrc-mvp-offline.git
-
+## Próximos pasos
+- Iniciar estructura backend con Express.js.
+- Preparar conexión a base de datos PostgreSQL.
+- Implementar primer endpoint del sistema.
